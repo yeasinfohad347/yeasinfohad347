@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/yeasinfohad347/yeasinfohad347/main/862a1041-5778-44a6-8fe5-ef5029e6c7d4.png" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/yeasinfohad347/yeasinfohad347/main/banner.png" alt="Banner" width="100%" />
+
 
 # 👨‍💻 Yeasin Forhad — Modern MERN Stack Developer
 
